@@ -7,6 +7,16 @@
     android:orientation="vertical"
     android:layout_margin="20dp"
     tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculator"
+        android:layout_margin="15dp"
+        android:textSize="30sp"
+        android:textColor="#553213"
+        />
+
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
